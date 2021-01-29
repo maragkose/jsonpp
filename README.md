@@ -1,2 +1,3 @@
-# jsonpp
-Json c++ parser/builder
+# JSONPP
+
+A basic single header json parser for C++

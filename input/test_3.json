@@ -1,0 +1,6 @@
+{"ROOT" :  
+    {
+        "own_process_name_1"              : "tns-manager-1",
+        "own_process_name_2"              : "tns-manager-2"
+    }
+}
